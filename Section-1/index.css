@@ -30,6 +30,9 @@ img{
     flex-wrap: 1;
   
 }
+.checkbox .anotherColor{
+    margin-left: 70px;
+}
 .checkbox input{
     display: flex;
    width: 20px;
@@ -40,6 +43,10 @@ input, button{
     border-radius:5px ;
     margin-top: 10px;
 
+}
+button{
+    font-size:medium;
+    text-align: center;
 }
 
 .bolder{
@@ -84,6 +91,7 @@ a{
 
 .anotherColor{
     color: #5429FF;
+    
 }
 
 .bolder{
